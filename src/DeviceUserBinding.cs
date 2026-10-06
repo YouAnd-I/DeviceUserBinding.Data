@@ -1,5 +1,5 @@
 using Device.Data;
-using User.Data;
+using Identity.Data;
 
 namespace DeviceUserBinding.Data;
 

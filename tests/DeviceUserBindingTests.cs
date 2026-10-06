@@ -1,5 +1,5 @@
 using Device.Data;
-using User.Data;
+using Identity.Data;
 using Xunit;
 
 namespace DeviceUserBinding.Data.Tests;
